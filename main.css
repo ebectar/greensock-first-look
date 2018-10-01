@@ -1,0 +1,20 @@
+.st0 {
+  fill: rgb(230, 128, 88);
+}
+
+.st1 {
+  fill: rgb(209, 230, 88);
+}
+
+.st2 {
+  fill: rgb(88, 230, 211);
+}
+
+.st3 {
+  fill: rgb(154, 88, 230);
+}
+body {
+  display:flex;
+  width: 100vw;
+  flex-wrap: wrap;
+}
